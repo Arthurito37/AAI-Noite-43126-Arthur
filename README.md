@@ -18,8 +18,9 @@ AAI Noite UNIFECAF RA:43126 Arthur de Sousa Santana
 <p>git add .</p>
 //Conectando ao repositório remoto
 <p>git remote add origin https://github.com/Arthurito37/Java-Projects.git </p>
+<p>SE O REPOSITORIO JA EXISTIR NAO PRECISA FAZER O PASSO ANTERIOR</p>
 //Envie seu código para o GitHub:
-<p>git push -u origin master </p>
+<p>git push -u origin main</p>
 
 
 <h1>CLONANDO UM REPOSITÓRIO E RODANDO O ARQUIVO</h1>
